@@ -1,16 +1,15 @@
 ![Midnight](https://raw.githubusercontent.com/Serendipity-Theme/assets/main/githubHeader.png)
 
-# Serendipity for [Platform]
+# Serendipity for Adobe Swatch Exchange ( ASE )
 
 
 # Installation
 
-1. Open **X**.
-2. Search for **X**
-3. Click **X** to do **X**
+1. Open your swatch library.
+2. Upload the files with .ase extensions
 
 # Screenshots Under this heading
-![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/vs-code/master/sunset.png)
+![palette](https://github.com/Serendipity-Theme/assets/blob/main/palette.png?raw=true)
 
 # Who ported the theme?
 
