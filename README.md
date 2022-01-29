@@ -14,3 +14,6 @@
 # Who ported the theme?
 - Michael Andreuzza
 
+# Thanks to:
+- [Pablo Lara](https://twitter.com/pablolarah)
+
